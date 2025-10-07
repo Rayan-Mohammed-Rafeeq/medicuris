@@ -1,0 +1,12 @@
+<p>
+  Built with ❤️ by{" "}
+  <a
+    href="https://vly.ai"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-[#5865F2] hover:underline font-semibold"
+    style={{ textShadow: "0 0 10px rgba(88, 101, 242, 0.4)" }}
+  >
+    Allied Edge
+  </a>
+</p>
